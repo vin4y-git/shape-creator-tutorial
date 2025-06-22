@@ -2,11 +2,10 @@
 
 A threejs / WebGL / MediaPipe-powered interactive demo that allows you to control create and move 3D shapes using hand gestures in real-time.
 
+[Video](https://youtu.be/oE3a0ghsrBk?si=UCcnjHjpWj21bBA0) | [Live Demo](https://collidingscopes.github.io/shape-creator-tutorial/) | [More Code & Tutorials](https://www.funwithcomputervision.com/)
+
 <img src="demo.png">
 
-## Demo
-
-Try the live demo: [https://collidingscopes.github.io/shape-creator-tutorial/](https://collidingscopes.github.io/shape-creator-tutorial/)
 
 ## Requirements
 
@@ -44,6 +43,11 @@ MIT License
 - MediaPipe - https://mediapipe.dev/
 
 ## Related Projects
+
+I've released several computer vision projects (with code + tutorials) here:
+[Fun With Computer Vision](https://www.funwithcomputervision.com/)
+
+You can purchase lifetime access and receive the full project files and tutorials. I'm adding more content regularly :)
 
 You might also like some of my other open source projects:
 
