@@ -1,6 +1,8 @@
 # 3D Hand Tracking Demo [Shape Creator]
 
-A threejs / WebGL / MediaPipe-powered interactive demo that allows you to control create and move 3D shapes using hand gestures in real-time.
+Create and control 3D shapes using hand gestures in real-time.
+
+Mediapipe computer vision + threejs.
 
 [Video](https://youtu.be/oE3a0ghsrBk?si=UCcnjHjpWj21bBA0) | [Live Demo](https://collidingscopes.github.io/shape-creator-tutorial/) | [More Code & Tutorials](https://www.funwithcomputervision.com/)
 
